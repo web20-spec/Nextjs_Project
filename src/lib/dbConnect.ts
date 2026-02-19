@@ -23,8 +23,8 @@ async function dbConnect() : Promise<void> {
 
         console.log("Database connected successfully");
 
-        console.log("DB:", db);
-        console.log("db.connections:", db.connections);
+        // console.log("DB:", db);
+        // console.log("db.connections:", db.connections);
         
         
         
